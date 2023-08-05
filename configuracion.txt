@@ -1,0 +1,2 @@
+TOKEN=7dc4ae015e4ab8c5e877e928730e5fed131f0fcc
+EXTENSIONES=jpg,jpeg,png,webp
