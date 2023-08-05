@@ -45,7 +45,7 @@ Finalmente aparecerá una ventana de información con el resultado de la operaci
 
 ![Informe](https://i.imgur.com/UT0BleQ.png)
 
-## Ejemplhttps://i.imgur.com/UT0BleQ.pngos
+## Ejemplos
 ![Ejemplo](https://i.imgur.com/IP00U4e.png)
 
 ![Ejemplo](https://i.imgur.com/hXgHh4i.png)
